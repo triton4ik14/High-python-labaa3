@@ -1,0 +1,65 @@
+[
+  {
+    "h": 0.1,
+    "epsilon": 0.1,
+    "iterations": 20,
+    "time": 0.000944000028539449,
+    "grid_size": 11
+  },
+  {
+    "h": 0.1,
+    "epsilon": 0.01,
+    "iterations": 34,
+    "time": 0.0014396999613381922,
+    "grid_size": 11
+  },
+  {
+    "h": 0.1,
+    "epsilon": 0.001,
+    "iterations": 56,
+    "time": 0.0023514999775215983,
+    "grid_size": 11
+  },
+  {
+    "h": 0.01,
+    "epsilon": 0.1,
+    "iterations": 141,
+    "time": 0.5832893999759108,
+    "grid_size": 101
+  },
+  {
+    "h": 0.01,
+    "epsilon": 0.01,
+    "iterations": 824,
+    "time": 3.354049500019755,
+    "grid_size": 101
+  },
+  {
+    "h": 0.01,
+    "epsilon": 0.001,
+    "iterations": 2070,
+    "time": 8.511807299975771,
+    "grid_size": 101
+  },
+  {
+    "h": 0.005,
+    "epsilon": 0.1,
+    "iterations": 158,
+    "time": 2.5856425000238232,
+    "grid_size": 201
+  },
+  {
+    "h": 0.005,
+    "epsilon": 0.01,
+    "iterations": 1226,
+    "time": 19.924735100008547,
+    "grid_size": 201
+  },
+  {
+    "h": 0.005,
+    "epsilon": 0.001,
+    "iterations": 5059,
+    "time": 82.34496899996884,
+    "grid_size": 201
+  }
+]
